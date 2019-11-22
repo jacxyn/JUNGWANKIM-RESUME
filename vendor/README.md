@@ -1,5 +1,14 @@
+
+# Welcome to LearnCS8 Resume Website
+
+This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+
+Special thanks to the open source bootstrap libraries that made this website possible. 
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
-> Title of Website: Jungwan Kim Resume
+> Title of Website: [https://30371d21847a431ba42b52cfedd7a8d1.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html](https://30371d21847a431ba42b52cfedd7a8d1.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html)
 > Jungwan Kim - Psychology
 
 [Jungwan Kim ![Profile Picture](img/profilepic.png)  ](#page-top) 
