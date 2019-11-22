@@ -1,5 +1,5 @@
 > Written with [StackEdit](https://stackedit.io/).
-> Title of Website: [https://30371d21847a431ba42b52cfedd7a8d1.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html](https://30371d21847a431ba42b52cfedd7a8d1.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html)
+> Title of Website: Jungwan Kim Resume
 > Jungwan Kim - Psychology
 
 [Jungwan Kim ![Profile Picture](img/profilepic.png)  ](#page-top) 
